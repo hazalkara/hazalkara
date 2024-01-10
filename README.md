@@ -52,7 +52,6 @@ align="left" width="35">
 <b />
 
 
-<!--
 <details>
 <summary>:bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=hazalkara&theme=synthwave ">
@@ -62,7 +61,6 @@ align="left" width="35">
 <summary>:bulb: Most Used Languages </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazalkara&layout=compact ">
 </details>
-<!--
 
 
 
